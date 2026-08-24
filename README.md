@@ -1,60 +1,129 @@
 # Hey there, I'm Priyanshu Thakur 👋
 
-### Full-Stack Developer | CSE Student | Building Web Applications
+**Full-Stack Developer · Building modern web applications & AI-integrated systems · Open to Software Development Internships**
 
-I'm a Computer Science student passionate about building modern,
-scalable web applications and solving real-world problems through code.
-
-- 🎓 B.Tech CSE
-- 💻 Full-Stack Web Development
-- 🚀 Currently building projects with React, Node.js & Django
-- 🌱 Exploring AI integration and backend development
-- 🔍 Open to internships and collaboration
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Frontend
-React.js • JavaScript • HTML • CSS • Tailwind CSS
+I'm a passionate **Full-Stack Developer** and Computer Science student who enjoys turning ideas into practical, production-ready web applications. I primarily work with the **MERN stack** and am expanding my skills in **Django, Python and AI integration**.
 
-### Backend
-Node.js • Express.js • Django
-
-### Database
-MongoDB • MySQL
-
-### Languages
-JavaScript • Python • C++ • Java
+* 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+* 💻 Building full-stack applications using **React.js, Node.js & Express.js**
+* 🌱 Currently exploring **Django, Python & AI integrations**
+* 🚀 Interested in scalable web applications, backend development & real-time systems
+* 🤝 Open to **internships, collaborations & interesting projects**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Expense Tracker
-A full-stack expense management application for tracking and managing personal finances.
+### 💰 [Expense Tracker – Personal Finance Management App](YOUR_EXPENSE_TRACKER_REPO_URL)
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Socket.io
+**Jul 2026 – Present**
 
-### 🤖 AI Loan Calculator
-An AI-powered loan calculation and financial assistance project.
+A full-stack personal finance application designed for tracking expenses, managing transactions and monitoring spending.
 
-**Tech:** HTML • CSS • JavaScript
+* 📊 Track and manage personal expenses through an intuitive dashboard
+* 🔐 Secure authentication and user-based expense management
+* ⚡ RESTful backend built with Node.js & Express.js
+* 🗄️ MongoDB database for persistent financial data
+* 🎨 Responsive interface built with React.js & Tailwind CSS
+* 🌐 Deployed and accessible online
 
-### 🌍 Travel Mate
-A web application designed to help users plan and explore travel experiences.
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Socket.io` `Auth0` `Render`
 
-**Tech:** JavaScript
+---
+
+### ✈️ [Travel Mate – Travel Planning Web Application](YOUR_TRAVEL_MATE_REPO_URL)
+
+**2026**
+
+A web application focused on helping users explore destinations and plan their travel experiences.
+
+* 🌍 Explore and organize travel destinations
+* 🖥️ Responsive and user-friendly interface
+* ⚡ Dynamic frontend experience using JavaScript
+* 🎨 Modern web interface designed for an improved user experience
+
+`JavaScript` `HTML` `CSS`
+
+---
+
+### 💼 [Portfolio – Personal Developer Portfolio](YOUR_PORTFOLIO_REPO_URL)
+
+**2026**
+
+A personal portfolio website showcasing my development skills, projects and technical journey.
+
+* 👨‍💻 Developer-focused personal portfolio
+* 🚀 Showcases projects and technical skills
+* 📱 Responsive design across devices
+* 🎨 Clean and modern user interface
+
+`React.js` `JavaScript` `HTML` `CSS`
+
+---
+
+### 🤖 [AI Loan Calculator](YOUR_AI_LOAN_CALCULATOR_REPO_URL)
+
+**2026**
+
+A web-based loan calculation project combining financial calculations with an AI-oriented user experience.
+
+* 💰 Loan and EMI calculation
+* 🤖 AI-oriented financial assistance
+* 📊 Simple and intuitive interface
+* ⚡ Lightweight and responsive web application
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 💻 Tech Stack
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+**Backend**
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-thakur1885&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-thakur1885&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-thakur1885&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-thakur1885&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) •
-[GitHub](https://github.com/priyanshu-thakur1885)
+* 💼 LinkedIn: YOUR_LINKEDIN_URL
+* 🌐 Portfolio: YOUR_PORTFOLIO_URL
+* 📧 Email: YOUR_EMAIL
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
