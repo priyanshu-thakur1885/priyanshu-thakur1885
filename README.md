@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-thakur-71a4652aa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fun2begin8988@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.pr1yanshuu._/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](myportfolio1885.vercel.app)
 
 </div>
 
@@ -28,7 +28,7 @@ I'm a passionate **Full-Stack Developer** and Computer Science student who enjoy
 
 ## 🚀 Featured Projects
 
-### 💰 [Expense Tracker – Personal Finance Management App](YOUR_EXPENSE_TRACKER_REPO_URL)
+### 💰 [Expense Tracker – Personal Finance Management App]https://github.com/priyanshu-thakur1885/Travel-Mate)
 
 **Jul 2026 – Present**
 
@@ -41,11 +41,13 @@ A full-stack personal finance application designed for tracking expenses, managi
 * 🎨 Responsive interface built with React.js & Tailwind CSS
 * 🌐 Deployed and accessible online
 
+🔗 Live Demo: https://expense-tracker-0ipq.onrender.com/
+
 `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Socket.io` `Auth0` `Render`
 
 ---
 
-### ✈️ [Travel Mate – Travel Planning Web Application](YOUR_TRAVEL_MATE_REPO_URL)
+### ✈️ [Travel Mate – Travel Planning Web Application](https://github.com/priyanshu-thakur1885/Travel-Mate)
 
 **2026**
 
@@ -60,7 +62,7 @@ A web application focused on helping users explore destinations and plan their t
 
 ---
 
-### 💼 [Portfolio – Personal Developer Portfolio](YOUR_PORTFOLIO_REPO_URL)
+### 💼 [Portfolio – Personal Developer Portfolio](https://github.com/priyanshu-thakur1885/Portfolio)
 
 **2026**
 
@@ -75,7 +77,7 @@ A personal portfolio website showcasing my development skills, projects and tech
 
 ---
 
-### 🤖 [AI Loan Calculator](YOUR_AI_LOAN_CALCULATOR_REPO_URL)
+### 🤖 [AI Loan Calculator](https://github.com/priyanshu-thakur1885/AI-Loan-Calculator)
 
 **2026**
 
@@ -124,9 +126,9 @@ A web-based loan calculation project combining financial calculations with an AI
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
-* 🌐 Portfolio: YOUR_PORTFOLIO_URL
-* 📧 Email: YOUR_EMAIL
+* 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-thakur-71a4652aa/
+* 🌐 Portfolio: myportfolio1885.vercel.app
+* 📧 Email: fun2begin8988@gmail.com
 
 ---
 
