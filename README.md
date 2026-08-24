@@ -30,7 +30,7 @@ I'm a passionate **Full-Stack Developer** and Computer Science student who enjoy
 
 ### 💰 [Expense Tracker – Personal Finance Management App](https://github.com/priyanshu-thakur1885/Travel-Mate)
 
-**Jul 2026 – Present**
+**Jan 2026 – Mar 2026**
 
 A full-stack personal finance application designed for tracking expenses, managing transactions and monitoring spending.
 
@@ -49,7 +49,7 @@ A full-stack personal finance application designed for tracking expenses, managi
 
 ### ✈️ [Travel Mate – Travel Planning Web Application](https://github.com/priyanshu-thakur1885/Travel-Mate)
 
-**2026**
+**Oct 2025 - Nov 2025**
 
 A web application focused on helping users explore destinations and plan their travel experiences.
 
@@ -64,7 +64,7 @@ A web application focused on helping users explore destinations and plan their t
 
 ### 💼 [Portfolio – Personal Developer Portfolio](https://github.com/priyanshu-thakur1885/Portfolio)
 
-**2026**
+**Oct 2025**
 
 A personal portfolio website showcasing my development skills, projects and technical journey.
 
@@ -79,7 +79,7 @@ A personal portfolio website showcasing my development skills, projects and tech
 
 ### 🤖 [AI Loan Calculator](https://github.com/priyanshu-thakur1885/AI-Loan-Calculator)
 
-**2026**
+**Feb 2025**
 
 A web-based loan calculation project combining financial calculations with an AI-oriented user experience.
 
@@ -127,7 +127,7 @@ A web-based loan calculation project combining financial calculations with an AI
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-thakur-71a4652aa/
-* 🌐 Portfolio: myportfolio1885.vercel.app
+* 🌐 Portfolio: https://www.myportfolio1885.vercel.app
 * 📧 Email: fun2begin8988@gmail.com
 
 ---
