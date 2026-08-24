@@ -28,7 +28,7 @@ I'm a passionate **Full-Stack Developer** and Computer Science student who enjoy
 
 ## 🚀 Featured Projects
 
-### 💰 [Expense Tracker – Personal Finance Management App]https://github.com/priyanshu-thakur1885/Travel-Mate)
+### 💰 [Expense Tracker – Personal Finance Management App](https://github.com/priyanshu-thakur1885/Travel-Mate)
 
 **Jul 2026 – Present**
 
