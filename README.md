@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · Building modern web applications & AI-integrated systems · Open to Software Development Internships**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-thakur-71a4652aa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-thakur-28b62943a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fun2begin8988@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.pr1yanshuu._/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2kmo.onrender.com/)
@@ -126,7 +126,7 @@ A web-based loan calculation project combining financial calculations with an AI
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-thakur-71a4652aa/
+* 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-thakur-28b62943a/
 * 🌐 Portfolio: https://portfolio-2kmo.onrender.com/
 * 📧 Email: fun2begin8988@gmail.com
 
